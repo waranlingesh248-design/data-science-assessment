@@ -1,2 +1,2 @@
-# data-science-assessment
+# data-structrue-assessment
 data science assessment 
